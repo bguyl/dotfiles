@@ -1,0 +1,8 @@
+[user]
+	name = Bastien Guyl
+	email = bastien@guyl.me
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
