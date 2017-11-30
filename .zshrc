@@ -19,4 +19,6 @@ antigen theme agnoster
 # Tell Antigen that you're done.
 antigen apply
 
+# .dotfiles config
 alias config='/usr/bin/git --git-dir=/home/bguyl/.dotfiles/ --work-tree=/home/bguyl'
+
