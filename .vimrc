@@ -20,8 +20,7 @@ Plugin 'VundleVim/Vundle.vim'
 " Keep Plugin commands between vundle#begin/end.
 " plugin on GitHub repo
 Plugin 'tpope/vim-fugitive'
-Plugin 'dracula/vim'
-Plugin 'powerline/powerline'
+Plugin 'powerline/powerline',{'rtp': 'powerline/bindings/vim/'}
 " plugin from http://vim-scripts.org/vim/scripts.html
 " Plugin 'L9'
 " Git plugin not hosted on GitHub
